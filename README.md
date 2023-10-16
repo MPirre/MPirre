@@ -4,7 +4,7 @@
 
 
 
-![github_cover_banner](IMG_8195.jpg)
+![github_cover_banner](IMG_8195 - cópia.jpg)
 
 
 
