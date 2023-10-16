@@ -3,9 +3,8 @@
 
 
 
-<div
-aign= "center"    
-![github_cover_banner](IMG_8195copia.jpg)
+<div align= "center" >   
+<img src = "IMG_8195copia.jpg">
 </div>
 
 
