@@ -2,7 +2,7 @@
     Developer e apaixonado por redes</h1>
     <style>
       img {
-        vertical-align: middle;
+        horizontal-align: middle;
       }
     </style>
 
