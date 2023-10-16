@@ -5,6 +5,7 @@
 source="![github_cover_banner](/IMG_8195.jpg)"
 width ="400"
 height ="500"
+    align = "centre"
 />
 
 
