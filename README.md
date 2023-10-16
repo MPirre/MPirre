@@ -4,13 +4,12 @@
 
 <div
 align = center
-/>
 <img 
 src= "![github_cover_banner](IMG_8195.jpg)"
 width ="400"
 height ="500"
 />
-
+/>
 
 
 
