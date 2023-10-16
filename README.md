@@ -1,9 +1,10 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Miguel Pirré, Developer e apaixonado por redes</h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Miguel Pirré, 
+    Developer e apaixonado por redes</h1>
 
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Sou um estudante de Técnologia e Informação na ESTGAgueda. Sou apaixonado por redes e cybersecurity. Tenho interesse em expandir os meus conhecimentos na área da informática. Estou sempre disposto aceitar novos desafios e ajudar.
+    Sou um estudante de Tecnologia e Informação na ESTGAgueda. Sou apaixonado por redes e cybersecurity. Tenho interesse em expandir os meus conhecimentos na área da informática. Estou sempre disposto aceitar novos desafios e ajudar.
 <br>
 <br>
 <div align="center">
