@@ -1,10 +1,12 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Miguel Pirré, 
     Developer e apaixonado por redes</h1>
-    <style>
+
+    
+<style>
       img {
         horizontal-align: middle;
       }
-    </style>
+</style>
 
 <img 
 source="![github_cover_banner](IMG_8195.jpg)"
