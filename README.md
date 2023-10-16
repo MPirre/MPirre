@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Miguel Pirré, 
     Developer e apaixonado por redes</h1>
 
-![github_cover_banner](IMG_8195.jpg)
+![github_cover_banner](Outros/Fotos/IMG_8195.jpg)
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
