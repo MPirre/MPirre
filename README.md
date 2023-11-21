@@ -46,10 +46,10 @@
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
   <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
-      <img  alt="C++" height="50px" style="padding-right:10px;" src="<a "href="https://www.freeiconspng.com/img/28389" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" style="padding-right:10px; alt="c++ logo image" /></a>
+      <img  alt="C++" height="50px" style="padding-right:10px;" src="<a "href="https://www.freeiconspng.com/img/28389" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" style="padding-right:10px; alt="c++ logo image" />
   </a>
         <a [href="https://git-scm.com/](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" <a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="50px" style="padding-right:10px; alt="c# logo download icon" /></a>
+      <img  alt="Git" height="50px" style="padding-right:10px;" <a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="50px" style="padding-right:10px; alt="c# logo download icon" />
   </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
