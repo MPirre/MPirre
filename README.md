@@ -1,5 +1,5 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Miguel Pirré, 
-    Developer e apaixonado por redes</h1>
+    Developer</h1>
 
 
 
