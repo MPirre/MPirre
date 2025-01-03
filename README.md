@@ -49,9 +49,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img alt="VSCode" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img alt="Laravel" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img alt="Laravel" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+</a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img alt="Angular" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a>
