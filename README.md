@@ -28,7 +28,6 @@
 <br>   
 <!-- Icons Resources -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
@@ -41,7 +40,6 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   </a>
-  <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
       <img  alt="C++" height="50px" style="padding-right:10px;" src="<a "href="https://www.freeiconspng.com/img/28389" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" style="padding-right:10px; alt="c++ logo image" />
   </a>
         <a [href="https://git-scm.com/](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer">
