@@ -27,35 +27,6 @@
 </div>
 <br>   
 <!-- Icons Resources -->
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="HTML" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img  alt="Bootstrap" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  </a>
-  </a>    
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
-  <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
-      <img  alt="C++" height="50px" style="padding-right:10px;" src="<a "href="https://www.freeiconspng.com/img/28389" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="50" style="padding-right:10px; alt="c++ logo image" />
-  </a>
-        <a [href="https://git-scm.com/](https://learn.microsoft.com/en-us/dotnet/csharp/)" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" <a href="https://www.freeiconspng.com/img/28402" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="50px" style="padding-right:10px; alt="c# logo download icon" />
-  </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-</div>
-<br>
-<br>
 
 <!-- Statistics -->
 
