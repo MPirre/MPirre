@@ -56,7 +56,7 @@
     <img alt="Angular" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a>
     <a href="https://php.net/" target="_blank" rel="noreferrer">
-    <img alt="PHP" height="50px" style="padding-right:10px;" src= https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png/>
+    <img alt="PHP" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png" />
   </a>  
 </div>
 <br>
