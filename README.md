@@ -55,6 +55,9 @@
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img alt="Angular" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </a>
+    <a href="https://php.net/" target="_blank" rel="noreferrer">
+    <img alt="PHP" height="50px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FPHP&psig=AOvVaw1EqBG_yiwuB32kQ4DPkV3W&ust=1753828013122000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCi4c_M4I4DFQAAAAAdAAAAABAE" />
+  </a>  
 </div>
 <br>
 <br>
