@@ -59,7 +59,7 @@
     <img alt="PHP" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/250px-PHP-logo.svg.png" />
   </a>
     <a href="https://twig.symfony.com" target="_blank" rel="noreferrer">
-    <img alt="Twig" height="50px" style="padding-right:10px;" src="https://twig.symfony.com/" />
+    <img alt="Twig" height="50px" style="padding-right:10px;" src="[https://twig.symfony.com/](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Drholdos.twig-language-support&ved=0CBYQjRxqFwoTCLCj7K7j8pMDFQAAAAAdAAAAABAf&opi=89978449)" />
   </a>
     
 </div>
